@@ -2,7 +2,7 @@
 
 A modern, responsive dashboard for viewing and managing UiPath Orchestrator processes. Built with React, TypeScript, and Cloudflare Workers for enterprise-grade performance and reliability.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/ninja-shreyash/uipath-process-dashboard-2)
 
 ## Features
 
@@ -140,7 +140,7 @@ The dashboard automatically refreshes process data every 30 seconds to ensure yo
 
 ### Cloudflare Workers
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/ninja-shreyash/uipath-process-dashboard-2)
 
 #### Manual Deployment
 
